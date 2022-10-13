@@ -1,1 +1,6 @@
 przykladowy plik 
+<<<<<<< HEAD
+=======
+druga linia 
+trzecia linia
+>>>>>>> 9c453c7a973da7bc02257e3c39ca48bbce20be36
