@@ -1,2 +1,3 @@
 przykladowy plik 
 druga linia 
+trzecia linia
